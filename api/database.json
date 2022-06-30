@@ -1,0 +1,98 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 2,
+      "clownId": 1,
+      "partyDate": "2022-07-27",
+      "childName": "Jeff Jr.",
+      "id": 2
+    },
+    {
+      "requestId": 3,
+      "clownId": 2,
+      "partyDate": "2022-07-19",
+      "childName": "Steven",
+      "id": 3
+    },
+    {
+      "requestId": 5,
+      "clownId": 2,
+      "partyDate": "2022-08-24",
+      "childName": "Barracuda",
+      "id": 4
+    },
+    {
+      "requestId": 6,
+      "clownId": 2,
+      "partyDate": "2022-07-09",
+      "childName": "Bucky",
+      "id": 5
+    },
+    {
+      "requestId": 7,
+      "clownId": 1,
+      "partyDate": "2022-06-25",
+      "childName": "Rebecca",
+      "id": 6
+    }
+  ],
+  "requests": [
+    {
+      "parentName": "Jeff Foxworthy",
+      "childName": "Jeff Jr.",
+      "attendance": "34",
+      "address": "285 You Might Be A Redneck Drive",
+      "reservationDate": "2022-07-27",
+      "length": "6",
+      "id": 2
+    },
+    {
+      "parentName": "Joe Shepherd",
+      "childName": "Steven",
+      "attendance": "25",
+      "address": "2340 Clown Lover's lane",
+      "reservationDate": "2022-07-19",
+      "length": "24",
+      "id": 3
+    },
+    {
+      "parentName": "Stephen Smith",
+      "childName": "Barracuda",
+      "attendance": "12",
+      "address": "454 UFO Lane",
+      "reservationDate": "2022-08-24",
+      "length": "7",
+      "id": 5
+    },
+    {
+      "parentName": "Tiffany Smith",
+      "childName": "Bucky",
+      "attendance": "6",
+      "address": "456 Thief Lane",
+      "reservationDate": "2022-07-09",
+      "length": "8",
+      "completion": true,
+      "id": 6
+    },
+    {
+      "parentName": "Derek Malone",
+      "childName": "Rebecca",
+      "attendance": "45",
+      "address": "123 Friday Ave",
+      "reservationDate": "2022-06-25",
+      "length": "3",
+      "completion": true,
+      "id": 7
+    }
+  ]
+}
